@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ismail Benotmane"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ismail Benotmane"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Master’s student at HEC Paris & Mathematics undergraduate at Sorbonne University"
+  location         : "Paris, France"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ismail.benotmane@hec.edu" 
 
   # Academic websites
   academia         : # URL
